@@ -1,8 +1,8 @@
 {
-  "versionCode": 1,
-  "versionName": "1.0",
+  "versionCode": 2,
+  "versionName": "1.1",
   "force": false,
   "note": "Cap nhat toi uu voice va playback.",
-  "url": "https://github.com/mxdungqnn/iptv.ru/raw/main/app-debug.apk",
-  "sha256": "A4C49544DCA01EC9FEBED7E95596E75B8F0F2B9A5BC8E672D2446AC229B268A0"
+  "url": "https://github.com/mxdungqnn/iptv.ru/raw/main/app-release.apk",
+  "sha256": "9BA800FBC6654CE71B9A6EC4A0C56C71915F3134CFE321B80384F47C254A5237"
 }
