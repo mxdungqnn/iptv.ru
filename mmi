@@ -64,9 +64,6 @@ https://live-a.fptplay53.net/live/media/vinhlong3/live247-hls-avc/index.m3u8
 https://live.fptplay53.net/epzhd2/vinhlong4hd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Truyền Hình"tvg-logo="http://static3.thvli.vn/assets/thumbnail/2025/08/28/gb1vfh5n_buttonchanels_thvl_2025_sua-1.png",Vĩnh Long 5
 https://live.fptplay53.net/epzsd1/vinhlong5_vhls.smil/chunklist.m3u8
-#EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://raw.githubusercontent.com/mxdungqnn/iptv.ru/refs/heads/main/mien-tay.png",Miền Tây
-https://vips-livecdn.fptplay.net/MzMzOTMyNTB8ZG9uZ3RoYXBoZF92aGxzLnNtaWx8dmlldHRlbHwxNzgwOTgwMjk1fDE3MS4yMjcuNjkuODd8NjA5NTIwNGQ2NmM3ZDc0OGJjOGFiNGUzZmU3ZWJhMTI/epzsd1/dongthaphd_vhls.smil/playlist.m3u8
-https://raw.githubusercontent.com/mxdungqnn/iptv.ru/refs/heads/main/mien-tay.png
 #EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://i.imgur.com/0fGI8cJ.png",Cần Thơ 1
 https://live.fptplay53.net/epzsd1/cantho_hls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://i.imgur.com/0fGI8cJ.png",Cần Thơ 2
