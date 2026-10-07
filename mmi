@@ -1,7 +1,3 @@
-#EXTM3U url-tvg="https://epg.io.vn/epg.xml.gz"
-#EXTINF:-1 group-title="VTV" tvg-logo="https://www.eplustv6.com/images/uploads/tv6_featured_show_images/Live_Events980x450.jpg",Sự Kiện LIVE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 10.0) AppleWebKit/537.36 (KHTML, like Gecko) 130.0.6723.116/10.0 TV Safari/537.36
-https://kutt.to/ppYeNn?id=live.m3u8
 #EXTINF:-1 group-title="VTV" tvg-logo="https://vtvgo-next-assets.vtvdigital.vn/prod/images/channel/20260905/2026090510/d978b81d5e-thumb-vtv1.webp",VTV1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 10.0) AppleWebKit/537.36 (KHTML, like Gecko) 130.0.6723.116/10.0 TV Safari/537.36
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv1/playlist-pre_1080p.m3u8
